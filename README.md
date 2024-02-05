@@ -1,4 +1,4 @@
-<h1>Hi, I'm Devin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Devin Lee! <br/><a href="https://github.com/DLTheDude85">Programmer</a>, <a href="https://www.linkedin.com/in/devin-lee-a606251b3/">Cybersecurity Professional</a> <a href=""></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -36,7 +36,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/devin-lee-a606251b3/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...            
 - ⚡ Fun fact: ...
 -->
