@@ -1,11 +1,11 @@
-<h1>Hi, I'm Devin Lee! <br/><a href="https://github.com/DLTheDude85">Programmer</a>, <a href="https://www.linkedin.com/in/devin-lee-a606251b3/">Cybersecurity Professional</a> <a href=""></a></h1>
+<h1>Hi, I'm Devin Lee! <br/><a href="https://github.com/DLTheDude85">Programmer</a>, <a href="https://www.linkedin.com/in/devin-lee-a606251b3/"> IT Support Professional</a> <a href=""></a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Network Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Docker-Powered Network Enhancement Project</b>
+  - [Strengthing Home Network Security and Add Blocking](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Cisco Phone Installation and Setup</b>
+  - [Empowering Communication In Classroom and Offices](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
