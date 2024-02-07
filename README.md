@@ -3,9 +3,9 @@
 <h2>👨‍💻 Network Security Projects:</h2>
 
 - <b>Docker-Powered Network Enhancement Project</b>
-  - [Strengthing Home Network Security and Add Blocking](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Strengthing Home Network Security and Add Blocking](https://devinlee.tech/archives/projects/docker-powered-network-enhancement-project-strengthening-home-network-security-and-ad-blocking)
 - <b>Cisco Phone Installation and Setup</b>
-  - [Empowering Communication In Classroom and Offices](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Empowering Communication In Classroom and Offices](https://devinlee.tech/archives/projects/cisco-phone-installation-and-setup-empowering-communication-in-classrooms-and-offices) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
