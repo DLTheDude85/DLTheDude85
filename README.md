@@ -5,11 +5,22 @@
 - <b>Docker-Powered Network Enhancement Project</b>
   - [Strengthing Home Network Security and Add Blocking](https://devinlee.tech/archives/projects/docker-powered-network-enhancement-project-strengthening-home-network-security-and-ad-blocking)
 - <b>Cisco Phone Installation and Setup</b>
-  - [Empowering Communication In Classroom and Offices](https://devinlee.tech/archives/projects/cisco-phone-installation-and-setup-empowering-communication-in-classrooms-and-offices) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Empowering Communication In Classroom and Offices](https://devinlee.tech/archives/projects/cisco-phone-installation-and-setup-empowering-communication-in-classrooms-and-offices) <b><i></b></i>
+- <b>Configuration and Installation of New Switches </b>
+  - [Enhanced Network Performance](https://devinlee.tech/archives/projects/configuration-and-installation-of-new-switches-for-enhanced-network-performance)
+- <b>My Secure Raspberry Pi Routetr</b>
+  - [WiFi VPN Travel Router](https://devinlee.tech/archives/projects/my-secure-rasberry-pi-router-wifi-vpn-travel-router) <b><i></b></i>
+- <b>Home IT Hacking Lab</b>
+  - [Simulating Enterprise Network and Vulnerable Machines for Practical Security Experience](https://devinlee.tech/archives/projects/home-it-hacking-lab-simulating-enterprise-networks-and-vulnerable-machines-for-practical-security-experience)
+
+
+<h2>👨‍💻 PowerShell Projects:</h2>
+
+- <b>Scripting and Automation Projects:</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>Systems Administration Projects:</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
@@ -18,6 +29,13 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>👨‍💻 Server and Virtualization Projects:</h2>
+
+<h2>👨‍💻 Learning and Personal Development Projects:</h2>
+
+<h2>👨‍💻 Other Technical Projects:</h2>
+
+<!--
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
@@ -25,6 +43,7 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+-->
 
 <h2> 🤳 Connect with me:</h2>
 
