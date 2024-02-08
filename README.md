@@ -22,18 +22,31 @@
 - <b>Systems Administration Projects:</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+<!--
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+-->
 
 <h2>👨‍💻 Server and Virtualization Projects:</h2>
 
+- <b>Home Lab</b>
+  - [Website Hosting with Ubuntu Server](https://devinlee.tech/archives/projects/project-title-home-lab-website-hosting-with-ubuntu-server)
+- <b>Home Lab</b>
+  - [VMware vSphere on Dell PowerEdge Server](https://devinlee.tech/archives/projects/home-it-hacking-lab-simulating-enterprise-networks-and-vulnerable-machines-for-practical-security-experience)
+
 <h2>👨‍💻 Learning and Personal Development Projects:</h2>
 
+- <b>Javascript</b>
+  - [Learning Through Building Games](https://devinlee.tech/archives/projects/home-it-hacking-lab-simulating-enterprise-networks-and-vulnerable-machines-for-practical-security-experience)
+
 <h2>👨‍💻 Other Technical Projects:</h2>
+
+- <b>Projector Installation Expertise</b>
+  - [Elevating Classroom Learning with Professional Setup](https://devinlee.tech/archives/projects/projector-installation-expertise-elevating-classroom-learning-with-professional-setup))
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
