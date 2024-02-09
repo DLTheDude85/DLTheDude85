@@ -13,7 +13,7 @@
 - <b>Home IT Hacking Lab</b>
   - [Simulating Enterprise Network and Vulnerable Machines for Practical Security Experience](https://devinlee.tech/archives/projects/home-it-hacking-lab-simulating-enterprise-networks-and-vulnerable-machines-for-practical-security-experience)
 
-
+<!--
 <h2>👨‍💻 PowerShell Projects:</h2>
 
 - <b>Scripting and Automation Projects:</b>
@@ -22,6 +22,7 @@
 - <b>Systems Administration Projects:</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+-->
 <!--
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
