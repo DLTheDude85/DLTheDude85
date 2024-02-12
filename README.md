@@ -12,7 +12,8 @@
   - [WiFi VPN Travel Router](https://devinlee.tech/archives/projects/my-secure-rasberry-pi-router-wifi-vpn-travel-router) <b><i></b></i>
 - <b>Home IT Hacking Lab</b>
   - [Simulating Enterprise Network and Vulnerable Machines for Practical Security Experience](https://devinlee.tech/archives/projects/home-it-hacking-lab-simulating-enterprise-networks-and-vulnerable-machines-for-practical-security-experience)
-
+- <b>Home IT Transformation Project</b>
+  - [Optimizing Connectivity, Data Security, and Convenience for Family](https://devinlee.tech/archives/projects/home-it-transformation-project-optimizing-connectivity-data-security-and-convenience-for-family)
 <!--
 <h2>👨‍💻 PowerShell Projects:</h2>
 
@@ -43,11 +44,16 @@
 
 - <b>Javascript</b>
   - [Learning Through Building Games](https://devinlee.tech/archives/projects/home-it-hacking-lab-simulating-enterprise-networks-and-vulnerable-machines-for-practical-security-experience)
+- <b>Laptop Recycling and Refurbishment</b>
+  - [Ethical Practices](https://devinlee.tech/archives/projects/ethical-laptop-recycling-and-refurbishment)
 
 <h2>👨‍💻 Other Technical Projects:</h2>
 
 - <b>Projector Installation Expertise</b>
-  - [Elevating Classroom Learning with Professional Setup](https://devinlee.tech/archives/projects/projector-installation-expertise-elevating-classroom-learning-with-professional-setup))
+  - [Elevating Classroom Learning with Professional Setup](https://devinlee.tech/archives/projects/projector-installation-expertise-elevating-classroom-learning-with-professional-setup)
+- <b>Smart LED Lighting Installation</b>
+  - [With WLED](https://devinlee.tech/archives/projects/smart-led-lighting-installation-with-wled-control)
+
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
