@@ -47,7 +47,7 @@
 - <b>Laptop Recycling and Refurbishment</b>
   - [Ethical Practices](https://devinlee.tech/archives/projects/ethical-laptop-recycling-and-refurbishment)
 - <b>Python</b>
-  - [YouTube Downloader](https://devinlee.tech/archives/projects/ethical-laptop-recycling-and-refurbishment)
+  - [YouTube Downloader](https://github.com/DLTheDude85/YouTube-Downloader)
 
 
 <h2>👨‍💻 Other Technical Projects:</h2>
