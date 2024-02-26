@@ -46,6 +46,9 @@
   - [Learning Through Building Games](https://devinlee.tech/archives/projects/home-it-hacking-lab-simulating-enterprise-networks-and-vulnerable-machines-for-practical-security-experience)
 - <b>Laptop Recycling and Refurbishment</b>
   - [Ethical Practices](https://devinlee.tech/archives/projects/ethical-laptop-recycling-and-refurbishment)
+- <b>Python</b>
+  - [YouTube Downloader](https://devinlee.tech/archives/projects/ethical-laptop-recycling-and-refurbishment)
+
 
 <h2>👨‍💻 Other Technical Projects:</h2>
 
